@@ -1,0 +1,2 @@
+Use the "terraform import" command to import existin vSphere resources, such as VMs. Find more on this page:
+https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/resources/virtual_machine#:~:text=command%20would%20be%3A-,terraform%20import,-vsphere_virtual_machine.vm%20/dc
